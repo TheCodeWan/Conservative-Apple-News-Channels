@@ -25,4 +25,9 @@
 * Washington Examiner
 * Washington Free Beacon
 
-# More Center-leaning Channels
+# Channels That Lean More to the Center (but  still regularly post center-right or right-leaning articles)
+
+* Reason
+* The Dispatch
+* The Hill
+* The Washington Post
