@@ -12,7 +12,6 @@
 * The Babylon Bee
 * The California Post
 * The Christian Post
-* The Christian Science Monitor
 * The Daily Mail
 * The Daily Signal
 * The Daily Wire
@@ -28,6 +27,7 @@
 **Channels That Lean More to the Center (but  still regularly post center-right or right-leaning articles):**
 
 * Reason
+* The Christian Science Monitor
 * The Dispatch
 * The Hill
 * The Washington Post
