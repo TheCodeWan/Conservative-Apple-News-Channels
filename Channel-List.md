@@ -24,7 +24,7 @@
 * Washington Examiner
 * Washington Free Beacon
 
-**Channels That Lean More to the Center (but  still regularly post center-right or right-leaning articles):**
+**Channels that lean more to the center (but  still regularly post center-right or right-leaning articles):**
 
 * Reason
 * The Christian Science Monitor
